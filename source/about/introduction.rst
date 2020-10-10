@@ -2,20 +2,19 @@
 
 .. _doc_about_intro:
 
-Introduction
+はじめに
 ============
 
-Welcome to the documentation of the Resource Public Key Infrastructure (RPKI).
-Here, we aim to offer an overview of the RPKI technology itself, as well as some
-of the tools that are being developed for it. Any software implementer is welcome
-to add documentation for their tools to this project.
+Resource Public Key Infrastructure（RPKI）のドキュメントへようこそ。
+ここではRPKI技術とRPKIのために開発されているいくつかのツールの概要を提供することを目的としています。
+ソフトウェア開発者であれば誰でも自分のツールのドキュメントをこのプロジェクトに追加することができます。
 
-This page gives a broad overview of the RPKI and how it can help make Internet
-routing using the Border Gateway Protocol (BGP) more secure. This way, you will
-learn how RPKI can benefit your organisation, as well as helping others to be
-more secure on the Internet.
+このページでは、RPKIの概要とRPKIがBorder Gateway Protocol（BGP）を
+使用したインターネットルーティングの安全性向上にどのように役立つかを説明します。
+このドキュメントを通して、RPKIが自身の組織のみならず他者の組織のインターネット上での
+安全性向上にどのような利点をもたらすかを知ることができます。
 
-About this Documentation
+このドキュメントについて
 ------------------------
 
 This documentation is continuously written, corrected and edited by the RPKI
@@ -36,7 +35,7 @@ All the contents are under the permissive Creative Commons Attribution 3.0
 (`CC-BY 3.0 <https://creativecommons.org/licenses/by/3.0/>`_) license, with
 attribution to "The RPKI team at NLnet Labs and the RPKI community".
 
-About Resource Public Key Infrastructure
+RPKI について
 ----------------------------------------
 
 RPKI allows holders of Internet number resources to make verifiable statements
